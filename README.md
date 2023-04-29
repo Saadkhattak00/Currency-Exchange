@@ -8,5 +8,3 @@ Used Flutter for app development and CurrencyAPI for currency datas.
 
 ## ExchangePage
 ![Screenshot_1664972231(Kopya)](https://user-images.githubusercontent.com/58891564/194058921-3e588c37-0675-4f3c-a2ec-48f5214d5742.png)
-
-###### Mustafa Atmaca
